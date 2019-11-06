@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Jay Chou",
+    "picture": "images/jay.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Eason Chan",
+    "picture": "images/Eason.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ronghao Li",
+    "picture": "images/Ronghao.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Xiaoming Huang",
+    "picture": "images/naotaitao.jpeg"
+  }
+]
